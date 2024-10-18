@@ -1,0 +1,11 @@
+.operationButton{
+    width: 55px;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+}
